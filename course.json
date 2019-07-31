@@ -1,0 +1,423 @@
+{
+  "version": "1",
+  "title": "C++教程",
+  "author": "GitCourse",
+  "description": "C++教程",
+  "scenarios": [
+    {
+      "title": "C++教程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++教程",
+          "text": "C++教程.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++简介",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++简介",
+          "text": "C++简介.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++环境设置",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++环境设置",
+          "text": "C++环境设置.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++基本语法",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++基本语法",
+          "text": "C++基本语法.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++注释",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++注释",
+          "text": "C++注释.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++数据类型",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++数据类型",
+          "text": "C++数据类型.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++变量类型",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++变量类型",
+          "text": "C++变量类型.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++变量作用域",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++变量作用域",
+          "text": "C++变量作用域.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++常量",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++常量",
+          "text": "C++常量.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++修饰符类型",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++修饰符类型",
+          "text": "C++修饰符类型.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++储存类",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++储存类",
+          "text": "C++储存类.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++运算符",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++运算符",
+          "text": "C++运算符.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++循环",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++循环",
+          "text": "C++循环.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++判断",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++判断",
+          "text": "C++判断.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++函数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++函数",
+          "text": "C++函数.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++数字",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++数字",
+          "text": "C++数字.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++数组",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++数组",
+          "text": "C++数组.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++字符串",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++字符串",
+          "text": "C++字符串.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++指针",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++指针",
+          "text": "C++指针.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++引用",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++引用",
+          "text": "C++引用.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++日期 & 时间",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++日期 & 时间",
+          "text": "C++日期 & 时间.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++基本的输入输出",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++基本的输入输出",
+          "text": "C++基本的输入输出.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++数据结构",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++数据结构",
+          "text": "C++数据结构.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++类 & 对象",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++类 & 对象",
+          "text": "C++类 & 对象.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++继承",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++继承",
+          "text": "C++继承.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++重载运算符和重载函数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++重载运算符和重载函数",
+          "text": "C++重载运算符和重载函数.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++多态",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++多态",
+          "text": "C++多态.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++数据抽象",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++数据抽象",
+          "text": "C++数据抽象.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++数据封装",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++数据封装",
+          "text": "C++数据封装.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++接口（抽象类）",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++接口（抽象类）",
+          "text": "C++接口（抽象类）.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++文件和流",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++文件和流",
+          "text": "C++文件和流.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++异常处理",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++异常处理",
+          "text": "C++异常处理.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++动态内存",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++动态内存",
+          "text": "C++动态内存.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++命名空间",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++命名空间",
+          "text": "C++命名空间.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++模板",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++模板",
+          "text": "C++模板.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++预处理器",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++预处理器",
+          "text": "C++预处理器.md"
+        }
+      ]
+    },
+	    {
+      "title": "C++信号处理",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++信号处理",
+          "text": "C++信号处理.md"
+        }
+      ]
+    },    {
+      "title": "C++多线程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++多线程",
+          "text": "C++多线程.md"
+        }
+      ]
+    },    {
+      "title": "C++Web 编程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++Web 编程",
+          "text": "C++Web 编程.md"
+        }
+      ]
+    },    {
+      "title": "C++STL 教程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++STL 教程",
+          "text": "C++STL 教程.md"
+        }
+      ]
+    },   {
+      "title": "C++标准库",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++标准库",
+          "text": "C++标准库.md"
+        }
+      ]
+    },   {
+      "title": "C++有用的资源",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C++有用的资源",
+          "text": "C++有用的资源.md"
+        }
+      ]
+    },
+  ]
+}
