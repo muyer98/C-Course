@@ -10,7 +10,7 @@
       "steps": [
         {
           "title": "C++教程",
-          "text": "C++教程.md"
+          "text": "setup/C++教程.md"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "steps": [
         {
           "title": "C++简介",
-          "text": "C++简介.md"
+          "text": "setup/C++简介.md"
         }
       ]
     },
