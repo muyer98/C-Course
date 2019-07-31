@@ -99,7 +99,7 @@ C++ 标识符内不允许出现标点字符，比如 @、& 和 %。C++ 是区分
 ## C++ 关键字 ##
 下表列出了 C++ 中的保留字。这些保留字不能作为常量名、变量名或其他标识符名称。
 保留字|保留字|保留字|保留字
---|:--:|--:
+:--:|:--:|:--:|:--:
 auto|enum|operator|throw
 bool|explicit|private|true
 break|export|protected|try
