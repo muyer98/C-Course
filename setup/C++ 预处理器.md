@@ -125,7 +125,7 @@ int main ()
     Trace: Coming out of main function
 
 ## # 和 ## 运算符 ##
- # 和 ## 预处理运算符在 C++ 和 ANSI/ISO C 中都是可用的。# 运算符会把 replacement-text 令牌转换为用引号引起来的字符串。
+ &#35; 和 ## 预处理运算符在 C++ 和 ANSI/ISO C 中都是可用的。# 运算符会把 replacement-text 令牌转换为用引号引起来的字符串。
 
 请看下面的宏定义：
 ```
@@ -153,7 +153,7 @@ cout << MKSTR(HELLO C++) << endl;
 ```
 cout << "HELLO C++" << endl;
 ```
- ## 运算符用于连接两个令牌。下面是一个实例：
+ &#35;# 运算符用于连接两个令牌。下面是一个实例：
 ```
 #define CONCAT( x, y )  x ## y
 ```
