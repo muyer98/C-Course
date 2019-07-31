@@ -98,6 +98,7 @@ C++ 标识符内不允许出现标点字符，比如 @、& 和 %。C++ 是区分
 ----------
 ## C++ 关键字 ##
 下表列出了 C++ 中的保留字。这些保留字不能作为常量名、变量名或其他标识符名称。
+
 保留字|保留字|保留字|保留字
 :--:|:--:|:--:|:--:
 auto|enum|operator|throw
@@ -114,7 +115,8 @@ default|inline|static|void
 delete|int|static_cast|volatile
 do|long|struct|wchar_t
 double|mutabl|switch|while
-dynamic_cast|namespace|template|  
+dynamic_cast|namespace|template|void
+
 完整关键字介绍可查阅：[C++ 的关键字（保留字）完整介绍][1]
 
 
